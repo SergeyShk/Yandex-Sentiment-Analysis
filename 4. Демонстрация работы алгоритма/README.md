@@ -1,3 +1,4 @@
+# Демо анализа тональности отзывов
 ## Запуск демо
 
 1. Установить необходимые библиотеки:
@@ -26,10 +27,10 @@ little sense, just rent any Rocky. 1 through 7 (or whatever they are on....) The
  other good ones.
 
 ### Позитивный отзыв
-Just saw this film at an early family showing before the actual release, and I have to say, it was
- a great companion to the original! By that, I mean, you see from Lightning McQueen's perspective
- exactly how Hudson felt in the original film.
+Just saw this film at an early family showing before the actual release, and I have to say, it was 
+a great companion to the original! By that, I mean, you see from Lightning McQueen's perspective 
+exactly how Hudson felt in the original film.
 Seeing how Lightning makes his way in a group of rookies is very reminiscent of himself against 
-the King and Chick Hicks in the original. Ligtning seems to be humbled in this new entry. However,
- Michael Keaton as Chick Hicks voice is surely missed. Even my seven year old son asked!
+the King and Chick Hicks in the original. Ligtning seems to be humbled in this new entry. However, 
+Michael Keaton as Chick Hicks voice is surely missed. Even my seven year old son asked!
 Glad to see the flashbacks, but sometimes overused. A great movie experience for the whole family.
